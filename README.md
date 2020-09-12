@@ -1,2 +1,2 @@
 # Covid19
-Analysis of covid data of Indi State wise.
+Analysis of covid data of India State wise.
